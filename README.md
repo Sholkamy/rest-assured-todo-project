@@ -11,11 +11,9 @@ This project provides hands-on experience in building a comprehensive API testin
 - **API Testing Fundamentals:** Understanding HTTP methods, status codes, and request-response workflow.  
 - **Test Automation Framework:** Developing a robust framework using Java and TestNG.
 - **BDD Style Testing:** Structuring tests with clear Given/When/Then steps to improve readability and maintainability.  
-- **Data-Driven Testing:** Implementing parameterized tests to handle multiple datasets efficiently.  
+- **Data-Driven Testing:** Generating dynamic datasets at runtime using JavaFaker to validate different input scenarios efficiently.
 - **TestNG Integration:** Utilizing TestNG for test configuration, execution, and reporting.  
 - **API Documentation:** Creating clear documentation for the tested API endpoints.  
-
-The project includes a `testng.xml` file to configure and manage test executions.
 
 ---
 
